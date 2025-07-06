@@ -17,7 +17,7 @@ export default function Stats() {
     return (
         <Card>
             <CardHeader className="p-2 md:p-4">
-                <CardTitle className="flex items-center gap-2">Your Game Stats</CardTitle>
+                <CardTitle className="text-2xl font-bold">Your Game Stats</CardTitle>
                 <CardDescription className="text-xs">
                     Every stat tells your story — wins show your power, losses fuel your grind.
                 </CardDescription>
